@@ -1,12 +1,14 @@
 # FreshCart App
 This React Project utilizes the Context API to manage application state. It includes components for handling shopping carts, confirming online payments.
 
-
-
-
-
-
-
+## Tech used:
+1- React Router
+2- Bootstrap
+3- TanStack Query + Axios
+4- Formik
+5- React-hot-Toast
+6- Yup
+7- Jwt-decode
 
 
 # Getting Started with Create React App
