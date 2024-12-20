@@ -1,5 +1,5 @@
 # FreshCart App
-
+This React Project utilizes the Context API to manage application state. It includes components for handling shopping carts, confirming online payments.
 
 
 
